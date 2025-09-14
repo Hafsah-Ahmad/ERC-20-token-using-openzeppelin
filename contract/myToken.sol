@@ -55,4 +55,5 @@ contract MyToken is ERC20Capped, ERC20Burnable, Pausable, Ownable {
     function isFrozen(address account) external view returns (bool) {
         return frozenAccounts[account];
     }
+
 }
