@@ -66,6 +66,8 @@ Pause & unpause transfers
 
 Freeze & unfreeze accounts
 
+This project is licensed under the MIT License.
+
 👩‍💻 Author
 Created by Hafsa Ahmad
 📧 Email: hafsa.ahmad043@gmail.com
