@@ -23,7 +23,7 @@ It uses ERC20, ERC20Capped, ERC20Burnable, Pausable, and Ownable from OpenZeppel
 
 Installation & Setup
 ```bash
-git clone <your-repo-url>
+git clone "https://github.com/Hafsah-Ahmad/ERC-20-token-using-openzeppelin/tree/main"
 cd ERC-20-token-using-openzeppelin
 npm install
 Install OpenZeppelin:
